@@ -39,10 +39,9 @@ This project is a supervised machine learning regression problem, where the goal
 - Feature Engineering & Encoding
 - Regression Models:
   - Linear Regression
-  - Random Forest
   - XGBoost
 - Model Evaluation (R², RMSE)
-- Streamlit Web App *(optional)*
+
 
 ---
 
@@ -52,7 +51,7 @@ This project is a supervised machine learning regression problem, where the goal
 - matplotlib, seaborn
 - scikit-learn
 - xgboost
-- Streamlit *(optional)*
+
 
 ---
 
